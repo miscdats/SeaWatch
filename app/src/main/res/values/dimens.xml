@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="big_marge">16dp</dimen>
+    <dimen name="lil_marge">6dp</dimen>
+    <dimen name="words">24sp</dimen>
+</resources>

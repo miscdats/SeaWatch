@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SeaWatch</string>
+    <string name="btn_data_get">Get watching!</string>
+    <string name="no_connection">Connect yourself before you wreck yourself.</string>
+    <string name="located_at">Located at : %1$f , %2$f</string>
+    <string name="btn_data_give">Get looked at!</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
